@@ -36,7 +36,7 @@
 -  Also visit my Website [`Here`](https://wa.me/message/NHCZC5DSOEUXB1)
 - ⚡ Fun fact: ...
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mouricedevs&layout=donut)](https://github.com/mouricedevs)
+
 <h3>Some of my Projects:</h3>
 
 <a href="https://github.com/mouricedevs/Gifted-Md">
