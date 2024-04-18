@@ -5,14 +5,14 @@
 
 ![My card name](https://cardivo.vercel.app/api?name=GIFTED%20TECH%20&description=Hi,%20Welcome%20To%20My%20Profile&image=https://github.com/mouricedevs.png?lenght=50width=50=400&u=5313a9a2f6999325a10ce9bfa9787b536c90894c&v=4?q=tbn:ANd9GcR7aMC3bf4bg4l_nhYS2Un9FXbFYcB4T83Shjk8xSUZDh_D61LFpzbpeqLW&s=10?v=4&backgroundColor=brown&instagram=giftedtechnexus&github=mouricedevs&)
 </p>
+<p> <b>Connect With me:</b></p>
+<p>
+<a href="https://wa.me/message/NHCZC5DSOEUXB1"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/WhatsApp.png" width="10%"> </a><a href="https://Instagram.com/giftedtechnexus"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/Instagram2.png" width="11%"> </a><a href="https://www.facebook.com/ngire.mourice1"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/Facebook.png" width="12%"> </a><a href="https://twitter.com/giftedmauriceke"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/twitter.png" width="10%"> </a>
+</p>
 </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mouricedevs&label=Visitors%20count&color=10d9c3&style=plastic" alt="Gifted Tech" /> </p>
 </br>
 </details>
-
-<a href="https://instagram.com/giftedtechnexus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="headless_angels.exo" height="30" width="40" /></a>
-<a href="https://wa.me/message/NHCZC5DSOEUXB1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="avo" height="30" width="40" /></a>
-</br></br>
 
 
 </p>
