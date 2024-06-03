@@ -7,7 +7,7 @@
 </p>
 <p> <b>Connect With me:</b></p>
 <p>
-<a href="https://wa.me/message/NHCZC5DSOEUXB1"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/WhatsApp.png" width="10%"> </a><a href="https://Instagram.com/giftedtechnexus"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/Instagram2.png" width="11%"> </a><a href="https://www.facebook.com/ngire.mourice1"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/Facebook.png" width="12%"> </a><a href="https://twitter.com/giftedmauriceke"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/twitter.png" width="10%"> </a>
+<a href="https://t.me/giftedmd"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/WhatsApp.png" width="10%"> </a><a href="https://Instagram.com/giftedtechnexus"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/Instagram2.png" width="11%"> </a><a href="https://www.facebook.com/ngire.mourice1"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/Facebook.png" width="12%"> </a><a href="https://twitter.com/giftedmauriceke"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/twitter.png" width="10%"> </a>
 </p>
 </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mouricedevs&label=Visitors%20count&color=10d9c3&style=plastic" alt="Gifted Tech" /> </p>
