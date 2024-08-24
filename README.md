@@ -52,6 +52,10 @@
 </a>
 
 <a href="https://github.com/mouricedevs/dreaded-md">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mouricedevs&repo=telegram-bot&theme=dark&layout=compact&langs_count=8&card_width=320" />
+</a>
+
+<a href="https://github.com/mouricedevs/dreaded-md">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mouricedevs&repo=dreaded-md&theme=dark&layout=compact&langs_count=8&card_width=320" />
 </a>
 
