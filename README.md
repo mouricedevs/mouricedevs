@@ -48,7 +48,7 @@
 <h3>Some of my Projects:</h3>
 
 <a href="https://github.com/mouricedevs/Gifted-Md">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mouricedevs&repo=gifted-md&theme=dark&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mouricedevs&repo=gifted&theme=dark&layout=compact&langs_count=8&card_width=320" />
 </a>
 
 <a href="https://github.com/mouricedevs/dreaded-md">
