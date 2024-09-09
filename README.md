@@ -40,8 +40,8 @@
 - 🌱 I’m currently learning [`Python3`](https://www.liaoxuefeng.com/wiki/1016959663602400)
 - 👯 I’m looking to collaborate on Developing Hacking Software Programs
 - 💬 Ask me about Whatsapp Bots or Web Design and Development Issues
-- 📫 How to reach me: [`Telegram`](https://t.me/giftedmd)
--  Also visit my Bot Website [`Here`](https://web.giftedtechnexus.co.ke)
+- 📫 How to reach me: [`Telegram`](https://t.me/mouricedevs)
+-  Also visit my Bot Repo [`Here`](https://github.com/mouricedevs/gifted)
 - ⚡ Fun fact: ...
 
 
