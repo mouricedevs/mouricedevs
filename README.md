@@ -36,7 +36,7 @@
 
 
   
-- 🔭 I’m currently working on Ace-Md
+- 🔭 I’m currently working on [Gifted Api](https://api.giftedtechnexus.co.ke)
 - 🌱 I’m currently learning [`Python3`](https://www.liaoxuefeng.com/wiki/1016959663602400)
 - 👯 I’m looking to collaborate on Developing Hacking Software Programs
 - 💬 Ask me about Whatsapp Bots or Web Design and Development Issues
@@ -47,19 +47,11 @@
 
 <h3>Some of my Projects:</h3>
 
-<a href="https://github.com/mouricedevs/Gifted-Md">
+<a href="https://github.com/mouricedevs/gifted">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mouricedevs&repo=gifted&theme=dark&layout=compact&langs_count=8&card_width=320" />
 </a>
 
-<a href="https://github.com/mouricedevs/dreaded-md">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mouricedevs&repo=telegram-bot&theme=dark&layout=compact&langs_count=8&card_width=320" />
-</a>
-
-<a href="https://github.com/mouricedevs/dreaded-md">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mouricedevs&repo=dreaded-md&theme=dark&layout=compact&langs_count=8&card_width=320" />
-</a>
-
-
+### Most are private so only output are soon
 <br>
 
 [![Gifted's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/mouricedevs)
