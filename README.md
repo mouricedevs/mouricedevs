@@ -36,7 +36,7 @@
 
 
   
-- 🔭 I’m currently working on [Gifted Api](https://giftedapis.us.kg)
+- 🔭 I’m currently working on [Gifted Api](https://api.giftedtech.us.kg)
 - 🌱 I’m currently learning [`Python3`](https://www.liaoxuefeng.com/wiki/1016959663602400)
 - 👯 I’m looking to collaborate on Developing Hacking Software Programs
 - 💬 Ask me about Whatsapp Bots or Web Design and Development Issues
