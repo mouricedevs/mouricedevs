@@ -36,18 +36,18 @@
 
 
   
-- 🔭 I’m currently working on [Gifted Api](https://api.giftedtech.us.kg)
+- 🔭 I’m currently working on [Gifted Api](https://api.giftedtech.web.id)
 - 🌱 I’m currently learning [`Python3`](https://www.liaoxuefeng.com/wiki/1016959663602400)
 - 👯 I’m looking to collaborate on Developing Hacking Software Programs
 - 💬 Ask me about Whatsapp Bots or Web Design and Development Issues
 - 📫 How to reach me: [`Telegram`](https://t.me/mouricedevs)
--  Also visit my Bot Repo [`Here`](https://github.com/mouricedevs/gifted)
+-  Also visit my Bot Repo [`Here`](https://github.com/mouricedevske/gifted-md)
 - ⚡ Fun fact: ...
 
 
 <h3>Some of my Projects:</h3>
 
-<a href="https://github.com/mouricedevs/gifted">
+<a href="https://github.com/mouricedevske/gifted-md">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mouricedevs&repo=gifted&theme=dark&layout=compact&langs_count=8&card_width=320" />
 </a>
 
